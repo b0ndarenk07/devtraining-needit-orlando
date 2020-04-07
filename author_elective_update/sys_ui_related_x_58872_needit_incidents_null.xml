@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related action="DELETE" sys_domain="global" table="x_58872_needit_incidents" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Task - Default view" name="x_58872_needit_incidents" related_list="NULL" sys_domain="global" view="Default view">6ea63605db0c941022d95ff25e961926</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>vladislav.bondarenko@snc</sys_created_by>
+            <sys_created_on>2020-04-06 23:01:36</sys_created_on>
+            <sys_id>eaa63605db0c941022d95ff25e961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vladislav.bondarenko@snc</sys_updated_by>
+            <sys_updated_on>2020-04-06 23:01:36</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Task - Default view</calculated_name>
+            <filter/>
+            <name>x_58872_needit_incidents</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>vladislav.bondarenko@snc</sys_created_by>
+            <sys_created_on>2020-04-06 23:01:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ea63605db0c941022d95ff25e961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Task - Default view</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_x_58872_needit_incidents_null</sys_update_name>
+            <sys_updated_by>vladislav.bondarenko@snc</sys_updated_by>
+            <sys_updated_on>2020-04-06 23:01:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>989356b1db3fc8909df22f17d49619c1</instance_id>
+        <instance_name>batman101</instance_name>
+        <name>sys_ui_related_x_58872_needit_incidents_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="x_58872_needit_incidents" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Task - Default view" name="x_58872_needit_incidents" related_list="NULL" sys_domain="global" view="Default view">6ea63605db0c941022d95ff25e961926</list_id><order_by/><position>0</position><related_list>task_ci.task</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>vladislav.bondarenko@snc</sys_created_by><sys_created_on>2020-04-06 23:01:36</sys_created_on><sys_id>eaa63605db0c941022d95ff25e961927</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>vladislav.bondarenko@snc</sys_updated_by><sys_updated_on>2020-04-06 23:01:36</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Task - Default view</calculated_name><filter/><name>x_58872_needit_incidents</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>vladislav.bondarenko@snc</sys_created_by><sys_created_on>2020-04-06 23:01:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ea63605db0c941022d95ff25e961926</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task - Default view</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_related_x_58872_needit_incidents_null</sys_update_name><sys_updated_by>vladislav.bondarenko@snc</sys_updated_by><sys_updated_on>2020-04-06 23:01:36</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+        <payload_hash>244585986</payload_hash>
+        <record_name>Task</record_name>
+        <reverted_from/>
+        <source>03d85c63dbb7c01022d95ff25e96199d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vladislav.bondarenko@snc</sys_created_by>
+        <sys_created_on>2020-04-06 23:01:36</sys_created_on>
+        <sys_id>a6a63605db0c941022d95ff25e961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17151ba50210000001</sys_recorded_at>
+        <sys_updated_by>vladislav.bondarenko@snc</sys_updated_by>
+        <sys_updated_on>2020-04-06 23:01:36</sys_updated_on>
+        <type>Related Lists</type>
+        <update_guid>eea63605aa0c941099dd97e106941228</update_guid>
+        <update_guid_history>eea63605aa0c941099dd97e106941228:244585986,4ea6f205830c94101486f7432e4c06f2:-899530034</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vladislav.bondarenko@snc</sys_created_by>
+        <sys_created_on>2020-04-06 23:24:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_related_list">sys_ui_related_list</sys_db_object>
+        <sys_id>00df8017ba5942b8af9a4fcb55272c40</sys_id>
+        <sys_metadata>6ea63605db0c941022d95ff25e961926</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task - Default view</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">99747e81db0c941022d95ff25e96191f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_related_x_58872_needit_incidents_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_related_x_58872_needit_incidents_null">a6a63605db0c941022d95ff25e961929</sys_update_version>
+        <sys_updated_by>vladislav.bondarenko@snc</sys_updated_by>
+        <sys_updated_on>2020-04-06 23:24:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
